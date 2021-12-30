@@ -72,7 +72,7 @@ class _MyHomePageState extends State<MyHomePage> {
         inactiveColorPrimary: Colors.black.withOpacity(0.6),
       ),
       PersistentBottomNavBarItem(
-        icon: Icon(Icons.home),
+        icon: Icon(Icons.shopping_basket_rounded),
         title: ("My Carts"),
         activeColorPrimary: Colors.orange,
         inactiveColorPrimary: Colors.black.withOpacity(0.6),
